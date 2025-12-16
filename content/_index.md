@@ -6,48 +6,56 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-欢迎来到我的个人主页！这是一个基于Hugo构建的简洁个人履历网站。
+This is a Hugo based resume template. You can find the full source code on
+[GitHub](https://github.com/ojroques/hugo-researcher).
 
-## 研究兴趣
+## Research Interest
 
-- 计算机科学
-- 机器学习
-- 开源项目
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
+ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
+pharetra quis[^1]. Mauris id urna ante.
 
-## 技能
+Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
+laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
+ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-### 编程语言
-- Python
-- JavaScript/TypeScript
-- Go
-- Rust
+## Publications
 
-### 框架与工具
-- Django, FastAPI
-- React, Vue
-- Docker, Kubernetes
+In chronological order:
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## 项目经验
+## Typography
 
-在此处添加您的主要项目经验。
+This is a [link](http://google.com). Something *italics* and something **bold**.
 
-## 发表文章
+Here is a table:
 
-1. Project A: Description
-2. Project B: Description
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
 
-## 教育背景
-
-- Bachelor Degree, University Name, 2020
-- Master Degree, University Name, 2022
+Here is a horizontal rule:
 
 ---
 
-## 联系方式
+Here is a blockquote:
 
-如有合作或咨询需求，欢迎通过以下方式与我联系：
+> To a great mind, nothing is little
 
-- 邮箱：your-email@example.com
-- GitHub：[your-github-profile](https://github.com)
+Here is a `code` block:
 
-[更多联系信息](/contact)
+```python
+def is_elementary():
+  return True
+```
+
+## References
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+[^1]: This is the first footnote.
+[^2]: This is the second footnote.
