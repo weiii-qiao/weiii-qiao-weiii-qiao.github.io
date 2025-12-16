@@ -1,0 +1,54 @@
+title = "My Researcher"
+baseURL = "https://username.github.io/"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false
+
+[services]
+  [services.googleAnalytics]
+    id = ""
+
+[params]
+  author = "Your Name"
+  description = "Personal resume and portfolio"
+  favicon = "favicon.ico"
+  logo = ""
+  [params.footer]
+    text = "Built with Hugo"
+    url = "https://gohugo.io"
+  [params.style]
+    fontFamily = "Inconsolata"
+    fontSize = "14pt"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/"
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:your-email@example.com"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
