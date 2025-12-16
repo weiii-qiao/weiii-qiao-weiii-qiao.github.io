@@ -2,31 +2,24 @@
 title = "Contact"
 +++
 
-## 联系方式
-
-* 邮箱：[your-email@example.com](mailto:your-email@example.com)
-* 电话：[+86-1234567890](tel:+86-1234567890)
+* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
-## 通讯地址
+## Mailing Address
 
-> 城市, 区/县
+> 221B, Baker Street
 >
-> 国家
+> London
+>
+> United Kingdom
 
 ---
 
-## 社交媒体
+## Social
 
-- [GitHub](https://github.com)
-- [Twitter](https://twitter.com)
-- [LinkedIn](https://linkedin.com)
-- [掘金](https://juejin.cn)
-
----
-
-## 工作时间
-
-业务咨询：周一至周五 9:00 - 18:00
+1. [Facebook](#)
+2. [Twitter](#)
+3. [Google+](#)
 
