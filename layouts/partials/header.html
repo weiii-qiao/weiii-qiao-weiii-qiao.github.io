@@ -4,7 +4,7 @@
           {{ with .Site.Params.logo }}
             <img src="{{ . | absURL }}" alt="logo">
           {{ end }}
-          {{ .Site.Title }}
+          <strong>{{ .Site.Title }}</strong>
         </a>
         <div class="navbar-nav flex-row flex-wrap justify-content-center">
             {{ with .Site.Menus.main }}
