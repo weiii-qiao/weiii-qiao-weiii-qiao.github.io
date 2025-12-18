@@ -9,12 +9,10 @@ title = "Publication"
 - **Slot: Provenance-Driven APT Detection through Graph Reinforcement Learning.**  
   <u>Wei Qiao</u>, Yebo Feng, Teng Li, Zhuo Ma, Yulong Shen, JianFeng Ma, Yang Liu.  
   *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025, pp. 963-977.  
-  <a href="https://dl.acm.org/doi/abs/10.1145/3719027.3744788" class="pdf-link">PDF</a>
 
 - **SauronEyes: Disentangling Voluminous Logs to Unveil Camouflaged Attack Intentions.**  
   <u>Wei Qiao</u>, Weiheng Wu, Song Liu, Teng Li, Yebo Feng, Zehui Wang, Junrong Liu, Bo Jiang, Zhigang Lu, Baoxu Liu.  
   *IEEE Transactions on Information Forensics and Security (TIFS)*, 2025.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/11194197" class="pdf-link">PDF</a>
 
 - **Chaos: Robust Spatio-Temporal Fusion for Generalizable APT Provenance Tracing.**  
   Teng Li, <u>Wei Qiao<sup>(*)</sup></u>, Yebo Feng, Jiahua Xu, Paolo Tasca, Weiguo Lin, Zexu Dang, Zhuo Ma, Jianfeng Ma.  
