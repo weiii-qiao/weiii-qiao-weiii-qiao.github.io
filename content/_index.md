@@ -79,7 +79,7 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 **Reviewer / Program Committee Member:**
 
-- *Knowledge-Based Systems*
+- *Knowledge-Based Systems* (KBS)
 - *Proceedings of the ACM Web Conference* (WWW)
 - *Scientific Reports*
 - *International Conference on Computer Supported Cooperative Work in Design* (CSCWD)
