@@ -85,6 +85,7 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 - *International Conference on Computer Supported Cooperative Work in Design* (CSCWD)
 - *Journal of Information Security and Applications*
 - *AAAI Conference on Artificial Intelligence* (AAAI)
+- *Journal of Information Security and Applications* (JISA)
 
 ## Others
 This is a [link](http://google.com). Something *italics* and something **bold**.
