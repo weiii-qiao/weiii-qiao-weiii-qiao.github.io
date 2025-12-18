@@ -27,11 +27,11 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
   *CCS*, 2025. <a href="https://dl.acm.org/doi/abs/10.1145/3719027.3744788" class="pdf-link">PDF</a>
 
 - **SauronEyes: Disentangling Voluminous Logs to Unveil Camouflaged Attack Intentions.**  
-  <u>Wei Qiao<u>, Weiheng Wu, Song Liu, Teng Li, Yebo Feng, Zehui Wang, Junrong Liu, Bo Jiang, Zhigang Lu, Baoxu Liu.  
+  <u>Wei Qiao</u>, Weiheng Wu, Song Liu, Teng Li, Yebo Feng, Zehui Wang, Junrong Liu, Bo Jiang, Zhigang Lu, Baoxu Liu.  
   *TIFS*, 2025. <a href="https://ieeexplore.ieee.org/abstract/document/11194197" class="pdf-link">PDF</a>
 
 - **Chaos: Robust Spatio-Temporal Fusion for Generalizable APT Provenance Tracing.**  
-  Teng Li, <u>Wei Qiao<sup>(*)<sup><u>, Yebo Feng, Jiahua Xu, Paolo Tasca, Weiguo Lin, Zexu Dang, Zhuo Ma, Jianfeng Ma
+  Teng Li, <u>Wei Qiao<sup>(*)</sup></u>, Yebo Feng, Jiahua Xu, Paolo Tasca, Weiguo Lin, Zexu Dang, Zhuo Ma, Jianfeng Ma.  
   *DSPP best paper*, 2025. <a href="https://ieeexplore.ieee.org/abstract/document/11194197" class="pdf-link">PDF</a>
 
 ## Typography
