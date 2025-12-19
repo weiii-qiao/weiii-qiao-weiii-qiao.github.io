@@ -81,5 +81,28 @@ def is_elementary():
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
 
+## Contact
+
+* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Phone: [+91-123123](tel:+91-123123)
+
+---
+
+## Mailing Address
+
+> 221B, Baker Street
+>
+> London
+>
+> United Kingdom
+
+---
+
+## Social
+
+1. [Facebook](#)
+2. [Twitter](#)
+3. [Google+](#)
+
 [^1]: This is the first footnote.
 [^2]: This is the second footnote.
